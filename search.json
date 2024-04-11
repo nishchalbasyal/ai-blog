@@ -9,30 +9,30 @@
   {
     "objectID": "posts/hello-world/index.html",
     "href": "posts/hello-world/index.html",
-    "title": "Nishchal Basyal",
+    "title": "Hello World",
     "section": "",
-    "text": "{ “cells”: [ { “cell_type”: “markdown”, “metadata”: {}, “source”: [ “—”, “title: \"Hello World\"”, “author: \"Your Name\"”, “date: \"2022-01-01\"”, “—” ] }, { “cell_type”: “markdown”, “metadata”: {}, “source”: [ “print(’Hello World)” ] } ], “metadata”: { “language_info”: { “name”: “python” } }, “nbformat”: 4, “nbformat_minor”: 2 }"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Nishchal Basyal",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 4, 2024\n\n\n1 min\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World This is a First Tutorial From Nishchal Basyal. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum\n\nprint('Hello world')"
   },
   {
     "objectID": "archive.html",
     "href": "archive.html",
     "title": "Archive",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\n\nApr 4, 2024\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\n\n\n\n\n\nApr 4, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I am Nishchal Basyal. An AI Aspirant passionate about sharing knowledge on Machine Learning, Deep Learning, Neural Networks, Computer Vision, and NLP."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Welcome to Nishchal Basyal’s AI Journey",
     "section": "",
-    "text": "About this blog"
+    "text": "Exploring the realms of Artificial Intelligence"
   },
   {
     "objectID": "posts/post-with-code/index.html",

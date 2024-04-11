@@ -1,14 +1,12 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/archive.html",
     "items": [
-      "/posts/hello-world/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/hello-world/index.html"
     ]
   },
   {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
       "/posts/hello-world/index.html",
       "/posts/post-with-code/index.html",
