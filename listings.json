@@ -2,15 +2,17 @@
   {
     "listing": "/archive.html",
     "items": [
-      "/posts/hello-world/index.html"
+      "/posts/Confidence Interval/index.html",
+      "/posts/Feature Engineering Transformation/index.html",
+      "/posts/Univariant Analysis/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/hello-world/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/Confidence Interval/index.html",
+      "/posts/Feature Engineering Transformation/index.html",
+      "/posts/Univariant Analysis/index.html"
     ]
   }
 ]
