@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nishchalbasyal.github.io/ai-blog/posts/Univariant Analysis/index.html</loc>
-    <lastmod>2024-05-05T19:48:19.204Z</lastmod>
+    <lastmod>2024-05-06T11:47:02.419Z</lastmod>
   </url>
   <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/index.html</loc>
-    <lastmod>2024-05-05T19:03:46.515Z</lastmod>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index.html</loc>
+    <lastmod>2024-05-06T11:44:59.044Z</lastmod>
   </url>
   <url>
     <loc>https://nishchalbasyal.github.io/ai-blog/archive.html</loc>
@@ -18,6 +18,10 @@
   </url>
   <url>
     <loc>https://nishchalbasyal.github.io/ai-blog/index.html</loc>
-    <lastmod>2024-05-05T19:46:40.062Z</lastmod>
+    <lastmod>2024-05-06T11:41:03.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index.html</loc>
+    <lastmod>2024-05-06T11:44:49.249Z</lastmod>
   </url>
 </urlset>

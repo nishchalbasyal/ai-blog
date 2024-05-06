@@ -10,11 +10,11 @@
 <atom:link href="https://nishchalbasyal.github.io/ai-blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>This is my persanal Data Science and AI Blog.</description>
 <generator>quarto-1.4.553</generator>
-<lastBuildDate>Sun, 05 May 2024 19:51:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 May 2024 18:30:00 GMT</lastBuildDate>
 <item>
-  <title>Confidence Intervals Using Z-Procedure and T-Procedure on Titanic Datasets </title>
+  <title>Confidence Intervals Using Z-Procedure and T-Procedure.</title>
   <dc:creator>Nishchal Basyal</dc:creator>
-  <link>https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/</link>
+  <link>https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/</link>
   <description><![CDATA[ 
 
 
@@ -24,7 +24,7 @@
 <section id="what-is-confidence-intervals" class="level3">
 <h3 class="anchored" data-anchor-id="what-is-confidence-intervals">What is Confidence Intervals ?</h3>
 <p>
-Confidence Intervals, in simple words, represent a range of values where we anticipate particular population parameters (e.g., Mean) to fall.
+Confidence Intervals, in simple words, represent a range of values where the particular population parameters (e.g., Mean) to fall.
 </p>
 <p>
 <b>Confidence Levels</b> indicate how confident we are that the true values lie within the interval, denoted by a percentage, e.g., 95%.
@@ -220,7 +220,7 @@ font-style: inherit;">'kde'</span>)</span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/index_files/figure-html/cell-6-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index_files/figure-html/cell-6-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -240,7 +240,7 @@ font-style: inherit;">=</span>plt)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/index_files/figure-html/cell-7-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index_files/figure-html/cell-7-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -305,7 +305,7 @@ font-style: inherit;">as</span> sns</span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/index_files/figure-html/cell-14-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index_files/figure-html/cell-14-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -686,7 +686,7 @@ font-style: inherit;">True</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/index_files/figure-html/cell-24-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index_files/figure-html/cell-24-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -697,13 +697,17 @@ font-style: inherit;">True</span>)</span>
 </section>
 
  ]]></description>
-  <guid>https://nishchalbasyal.github.io/ai-blog/posts/Confidence Interval/</guid>
-  <pubDate>Sun, 05 May 2024 19:51:16 GMT</pubDate>
+  <category>Feature Engineering</category>
+  <category>Statics</category>
+  <category>Data Preprocessing</category>
+  <guid>https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/</guid>
+  <pubDate>Sun, 05 May 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/image.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
   <title>Feature Engineering : FunctionTransformer and PowerTransformer</title>
   <dc:creator>Nishchal Basyal</dc:creator>
-  <link>https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/</link>
+  <link>https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/</link>
   <description><![CDATA[ 
 
 
@@ -926,7 +930,7 @@ font-style: inherit;">'Age QQ Plot'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-8-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-8-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -973,7 +977,7 @@ font-style: inherit;">'Age QQ Plot'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-9-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-9-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1149,7 +1153,7 @@ font-style: inherit;">'Age After log'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-16-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-16-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1312,7 +1316,7 @@ font-style: inherit;">#nothing</span></span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-20-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-20-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1333,7 +1337,7 @@ font-style: inherit;">#left skew (Square transform)</span></span></code></pre></
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-21-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-21-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1358,7 +1362,7 @@ font-style: inherit;"># (Square Root)</span></span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-22-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-22-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1383,7 +1387,7 @@ font-style: inherit;"># (Reciprocal Transform)</span></span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-23-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-23-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1398,7 +1402,7 @@ font-style: inherit;"># (Custom Transform)</span></span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-24-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-24-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1759,56 +1763,56 @@ font-style: inherit;">=</span>plt)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-3.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-3.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-4.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-4.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-5.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-5.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-6.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-6.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-7.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-7.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-34-output-8.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-34-output-8.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -1979,56 +1983,56 @@ font-style: inherit;">'step'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-3.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-3.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-4.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-4.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-5.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-5.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-6.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-6.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-7.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-7.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-38-output-8.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-38-output-8.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -2190,56 +2194,56 @@ font-style: inherit;">'step'</span>)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-3.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-3.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-4.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-4.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-5.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-5.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-6.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-6.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-7.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-7.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/index_files/figure-html/cell-40-output-8.png" class="img-fluid figure-img"></p>
+<p><img src="https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index_files/figure-html/cell-40-output-8.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -2327,8 +2331,11 @@ font-style: inherit;">'Yeo_Johnson_lambdas'</span>:pt1.lambdas_})</span></code><
 </section>
 
  ]]></description>
-  <guid>https://nishchalbasyal.github.io/ai-blog/posts/Feature Engineering Transformation/</guid>
-  <pubDate>Sun, 05 May 2024 19:51:16 GMT</pubDate>
+  <category>Feature Engineering</category>
+  <category>Normal Distribution</category>
+  <category>Data Preprocessing</category>
+  <guid>https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/</guid>
+  <pubDate>Sat, 04 May 2024 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Univariate Analysis : Categorial and Numerical Data</title>
@@ -2938,8 +2945,11 @@ font-style: inherit;">'Survived'</span>)</span></code></pre></div>
 </section>
 
  ]]></description>
+  <category>Data Analysis</category>
+  <category>Visualization</category>
+  <category>Data Preprocessing</category>
   <guid>https://nishchalbasyal.github.io/ai-blog/posts/Univariant Analysis/</guid>
-  <pubDate>Sun, 05 May 2024 19:51:16 GMT</pubDate>
+  <pubDate>Fri, 03 May 2024 18:30:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
