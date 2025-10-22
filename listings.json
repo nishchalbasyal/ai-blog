@@ -1,18 +1,11 @@
 [
   {
-    "listing": "/archive.html",
-    "items": [
-      "/posts/confidence_interval/index.html",
-      "/posts/feature_engineering_transformation/index.html",
-      "/posts/Univariant Analysis/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
-      "/posts/confidence_interval/index.html",
-      "/posts/feature_engineering_transformation/index.html",
-      "/posts/Univariant Analysis/index.html"
+      "/posts/Pytorch_ANN_Begiiner_NoteBook.html",
+      "/posts/Pytorch_II_Intermidiate_Intro.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]

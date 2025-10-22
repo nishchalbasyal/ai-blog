@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/posts/Univariant Analysis/index.html</loc>
-    <lastmod>2024-05-06T11:47:02.419Z</lastmod>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/welcome/index.html</loc>
+    <lastmod>2025-10-21T23:57:57.827Z</lastmod>
   </url>
   <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/posts/confidence_interval/index.html</loc>
-    <lastmod>2024-05-06T11:44:59.044Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/archive.html</loc>
-    <lastmod>2024-04-10T10:28:36.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/about.html</loc>
-    <lastmod>2024-04-11T02:57:54.380Z</lastmod>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/Pytorch_ANN_Begiiner_NoteBook.html</loc>
+    <lastmod>2025-10-21T23:58:52.790Z</lastmod>
   </url>
   <url>
     <loc>https://nishchalbasyal.github.io/ai-blog/index.html</loc>
-    <lastmod>2024-05-06T11:41:03.556Z</lastmod>
+    <lastmod>2025-10-21T23:57:57.827Z</lastmod>
   </url>
   <url>
-    <loc>https://nishchalbasyal.github.io/ai-blog/posts/feature_engineering_transformation/index.html</loc>
-    <lastmod>2024-05-06T11:44:49.249Z</lastmod>
+    <loc>https://nishchalbasyal.github.io/ai-blog/about.html</loc>
+    <lastmod>2025-10-21T23:57:57.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/post-with-code/index.html</loc>
+    <lastmod>2025-10-21T23:57:57.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nishchalbasyal.github.io/ai-blog/posts/Pytorch_II_Intermidiate_Intro.html</loc>
+    <lastmod>2025-10-21T23:58:52.811Z</lastmod>
   </url>
 </urlset>
