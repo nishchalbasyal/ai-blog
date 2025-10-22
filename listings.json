@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/confidence_interval/index.html",
+      "/posts/feature_engineering_transformation/index.html",
+      "/posts/Univariant Analysis/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/confidence_interval/index.html",
+      "/posts/feature_engineering_transformation/index.html",
+      "/posts/Univariant Analysis/index.html"
+    ]
+  }
+]
